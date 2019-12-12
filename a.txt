@@ -2,6 +2,6 @@ packge com.zking.util
 
 public class demo{
   public static void main(String[] arg){
-    system.out.println("Hello Git");
+    system.out.println("Hello SB");
   }
 }
